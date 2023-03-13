@@ -1,1 +1,4 @@
-this is second
+this is first message
+x = 1
+
+print (x)
